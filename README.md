@@ -20,13 +20,13 @@ Explore some of our ongoing projects that exemplify the fusion of AI and GeoScie
 - [Project 2: [Project Name]](link-to-project)
 - [Project 3: [Project Name]](link-to-project)
 
+<br>
+
 ## 🌐 Connect With Us
 Stay updated on our latest developments, research findings, and community activities:
 - [Email](mailto:geoaihub@gmail.com)
 
 Join us on this exciting journey at the intersection of AI and GeoScience. Together, let's chart new territories and pave the way for a smarter, more sustainable future.
-
-<br>
 
 <details>
 	<summary>Stats...</summary>
