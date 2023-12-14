@@ -1,9 +1,12 @@
-# GeoAI Hub Mersin
+<!--# GeoAI Hub Mersin -->
 
 <div align="center">
+  
   <h1>GeoAI Hub Mersin</h1>
   
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=geoaihub&theme=swift" align="center"/>
+
+  <br>
 
 </div>
 
