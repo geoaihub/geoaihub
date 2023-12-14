@@ -1,5 +1,3 @@
-<!--# GeoAI Hub Mersin -->
-
 <div align="center">
   
   <h1>GeoAI Hub Mersin</h1>
