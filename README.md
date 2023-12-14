@@ -1,5 +1,10 @@
 # GeoAI Hub Mersin
 
+<div align="center">
+  <h1>GeoAI Hub Mersin</h1>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=geoaihub&theme=swift" align="center"/>
+</div>
+
 Discover a world where the intricate realms of Artificial Intelligence (AI) and GeoScience seamlessly intertwine, creating a dynamic synergy that propels us into the future of exploration, understanding, and innovation. At GeoAI Hub Mersin, we embark on a fascinating journey to unravel the mysteries of our planet by harnessing the transformative power of AI and its convergence with the intricate domain of GeoScience.
 
 ## 🌍 Our Mission
@@ -24,9 +29,7 @@ Stay updated on our latest developments, research findings, and community activi
 
 Join us on this exciting journey at the intersection of AI and GeoScience. Together, let's chart new territories and pave the way for a smarter, more sustainable future.
 
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=geoaihub&theme=swift" align="center"/>
-</div>
+
 
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=geoaihub&theme=swift" align="center"/>
