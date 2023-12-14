@@ -2,8 +2,6 @@
 
 Welcome to GeoAI Hub Mersin, where the realms of Artificial Intelligence (AI) and GeoScience converge to shape the future of exploration, understanding, and innovation.
 
-<br>
-
 ## 🌍 Our Mission
 At GeoAI Hub Mersin, we are driven by a passionate commitment to harness the power of AI in conjunction with GeoScience to unravel the mysteries of our planet. Our mission is to advance scientific knowledge, promote sustainable practices, and foster collaboration between the worlds of AI and GeoScience.
 
@@ -19,8 +17,6 @@ Explore some of our ongoing projects that exemplify the fusion of AI and GeoScie
 - [Project 1: [Project Name]](link-to-project)
 - [Project 2: [Project Name]](link-to-project)
 - [Project 3: [Project Name]](link-to-project)
-
-<br>
 
 ## 🌐 Connect With Us
 Stay updated on our latest developments, research findings, and community activities:
