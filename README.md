@@ -36,4 +36,6 @@ Join us on this exciting journey at the intersection of AI and GeoScience. Toget
   </div>
 </details>
 
+<br>
+
 **GeoAI Hub Mersin**
