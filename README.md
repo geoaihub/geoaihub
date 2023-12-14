@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=geoaihub&theme=swift" align="center"/>
+</div>
+
 # GeoAI Hub Mersin
 
 Welcome to GeoAI Hub Mersin, where the realms of Artificial Intelligence (AI) and GeoScience converge to shape the future of exploration, understanding, and innovation.
