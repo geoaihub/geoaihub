@@ -25,7 +25,7 @@ Stay updated on our latest developments, research findings, and community activi
 Join us on this exciting journey at the intersection of AI and GeoScience. Together, let's chart new territories and pave the way for a smarter, more sustainable future.
 
 <details>
-	<summary>More...</summary>
+	<summary>Stats...</summary>
   <div align="center">  
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=geoaihub&theme=swift" align="center"/>
   </div>
