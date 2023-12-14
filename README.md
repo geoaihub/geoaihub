@@ -35,4 +35,5 @@ Join us on this exciting journey at the intersection of AI and GeoScience. Toget
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=geoaihub&theme=swift" align="center"/>
   </div>
 </details>
+
 **GeoAI Hub Mersin**
