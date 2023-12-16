@@ -14,9 +14,7 @@ At GeoAI Hub Mersin, we are driven by a passionate commitment to harness the pow
 
 ## 🔬 Current Projects
 Explore some of our ongoing projects that exemplify the fusion of AI and GeoScience:
-- [Project 1: [Project Name]](link-to-project)
-- [Project 2: [Project Name]](link-to-project)
-- [Project 3: [Project Name]](link-to-project)
+- [Project 1: [GeoAdvances-EQ-Scene-Classification-2023-Kahramanmaras]]([link-to-project](https://github.com/geoaihub/GeoAdvances-EQ-Scene-Classification-2023-Kahramanmaras))
 
 ## 🌐 Connect With Us
 Stay updated on our latest developments, research findings, and community activities:
